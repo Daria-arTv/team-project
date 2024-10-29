@@ -1,2 +1,2 @@
 print('Hi, my name is Lyuba')
-print
+print('I love cat')
